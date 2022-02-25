@@ -10,7 +10,7 @@ I'm currently working as freelancer.
   <a href="https://twitter.com/TesfamariamTes4">
    <img width="3%" alt="Twitter" src="https://img.icons8.com/color/2x/twitter.png" />
   </a>
-  <a href="www.linkedin.com/in/tesfamariam-teshome-4624581a0">
+  <a href="https://www.linkedin.com/in/tesfamariam-teshome-4624581a0/">
    <img width="3%" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />
   </a>
  </p>
