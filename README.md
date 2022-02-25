@@ -1,4 +1,4 @@
-### Hi there👋,I'm Tesfamariam Teshome
+### Hi there👋,I'm *Tesfamariam*
 
 <!--
 **Tesfamariam12/tesfamariam12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
