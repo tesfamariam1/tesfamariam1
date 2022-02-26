@@ -2,7 +2,7 @@
 I'm **Tesfamariam**, I love building utilities aimed at saving time for developers and solving client's problems.
 I'm currently working as freelancer.
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/80942216?s=400&u=cd710bfd05514284773a7829891d51dc2850dd62&v=4" align="center" alt="GitHub Readme Stats" />
+ <img width="200px" src="https://avatars.githubusercontent.com/u/80942216?s=400&u=cd710bfd05514284773a7829891d51dc2850dd62&v=4" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">Tesfamariam</h2>
  <p align="center">Consistency is a key!</p>
  <h5 align="center">How to Reach Me:</h5>
