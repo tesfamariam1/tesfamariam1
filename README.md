@@ -1,5 +1,5 @@
 ### Hi there👋
-I'm *Tesfamariam*, I love building utilities aimed at saving time for developers and solving client's problems.
+I'm *Tesfamariam*, I love building utilities aimed at solving client's problems.
 I'm currently working as freelancer.
 <p align="center">
  <img width="300px" src="http://www.parzlogic.com/wp-content/uploads/2017/10/web-dev.jpg" align="center" alt="Web Development" />
