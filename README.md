@@ -1,8 +1,5 @@
-### Hi there👋
-I'm *Tesfamariam*.
+### Hi there👋 I'm *Tesfamariam*.
 <p align="center">
- <img width="300px" src="http://www.parzlogic.com/wp-content/uploads/2017/10/web-dev.jpg" align="center" alt="Web Development" />
- <h2 align="center">Consistency is a key!</h2>
  <p align="center">Languages and Tools:</p>
  <p align="center">
   <a href="https://img.icons8.com/fluency/48/000000/laravel.png" target="_blank">
