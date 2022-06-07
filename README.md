@@ -1,30 +1,6 @@
-### Hi there👋 I'm *Tesfamariam*.
+### Hi there👋, I am Tesfamariam.
 <p align="center">
- <p align="center">Languages and Tools:</p>
- <p align="center">
-  <a href="https://img.icons8.com/fluency/48/000000/laravel.png" target="_blank">
-   <img width="3%" alt="Laravel" src="https://img.icons8.com/fluency/48/000000/laravel.png" />
-  </a>
-  <a href="https://img.icons8.com/color/48/000000/vue-js.png" target="_blank">
-   <img width="3%" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/vue-js.png" />
-  </a>
- <a href="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png" target="_blank">
-   <img width="3%" alt="LinkedIn" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-nuxt-js-a-free-and-open-source-web-application-framework-logo-shadow-tal-revivo.png" />
-  </a>
- <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgVlOeuMHzszMHEdDV8qG49Rtx6vg-o0n2Q&usqp=CAU" target="_blank">
-   <img width="3%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdgVlOeuMHzszMHEdDV8qG49Rtx6vg-o0n2Q&usqp=CAU"/>
- </a>
- <a href="https://img.icons8.com/officel/16/000000/php-logo.png" target="_blank">
-   <img width="3%" src="https://img.icons8.com/officel/16/000000/php-logo.png"/>
- </a>
- <a href="https://img.icons8.com/color/48/000000/html-5--v1.png" target="_blank">
-   <img width="3%" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
- </a>
- <a href="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" target="_blank">
-   <img width="3%" src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png"/>
- </a>
- </p>
- <h5 align="center">How to Reach Me:</h5>
+ <h5 align="center">You Can Reach Me Using:</h5>
  <p align="center">
   <a href="https://twitter.com/TesfamariamTes4" target="_blank">
    <img width="3%" alt="Twitter" src="https://img.icons8.com/color/2x/twitter.png" />
