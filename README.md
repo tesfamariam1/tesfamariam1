@@ -1,6 +1,6 @@
 ### Hi there👋, I am Tesfamariam.
 <p align="center">
- <h5 align="center">You Can Reach Me Using:</h5>
+ <h5 align="center">You Can Reach Me Via:</h5>
  <p align="center">
   <a href="https://twitter.com/TesfamariamTes4" target="_blank">
    <img width="3%" alt="Twitter" src="https://img.icons8.com/color/2x/twitter.png" />
