@@ -1,15 +1,17 @@
-### Hi there👋, I am Tesfamariam.
+
+<h3 align="center">👋 Hi there! I'm Tesfamariam</h3>
 <p align="center">
- <h5 align="center">You Can Reach Me using:</h5>
- <p align="center">
-  <a href="https://twitter.com/TesfamariamTes4" target="_blank">
-   <img width="3%" alt="Twitter" src="https://img.icons8.com/color/2x/twitter.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/tesfamariam-teshome-4624581a0/" target="_blank">
-   <img width="3%" alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png" />
-  </a>
-  <a href="https://www.instagram.com/tesfa_1216/" target="_blank">
-   <img width="3%" alt="LinkedIn" src="https://batlab.web.unc.edu/wp-content/uploads/sites/10162/2019/06/instagram-png-instagram-png-logo-1455.png" />
-  </a>
- </p>
+  <a href="https://www.linkedin.com/in/tesfamariam-teshome-4624581a0/"  target="_blank">LinkedIn</a> •
+  <a href="https://twitter.com/TesfamariamTes4" target="_blank">Twitter</a> •
+  <a href="https://www.instagram.com/tesfa_1216/" target="_blank">Instagram</a>
 </p>
+
+---
+I'm a electrical and computer engineer passionate about making websites with cutting edge technologies to improve people's lives. Some technologies and tools I enjoy working with include Laravel, NuxtJS, VueJS, Bootstrap, TailwindCSS, and Trello. My interest in the Software Development specially Website Development led me to develop my skills. I'm currently working on website development in local company as freelancer. 
+
+- 🔭 I’m currently working on: [Website Development]
+- 💬 Ask me about: Laravel, VueJs, NuxtJS, Bootstrap, Tailwindcss
+- 📫 How to reach me: [@Tesfa](https://t.me/Usertm1216)
+- ⚡ Fun facts: 
+  - You’ve got to renovate your website every two years
+  - First impression is the last impression (always try to impress your end user 👌🏽)
