@@ -7,7 +7,7 @@
 </p>
 
 ---
-I'm a electrical and computer engineer passionate about making websites with cutting edge technologies. Some technologies and tools I enjoy working with Laravel, NuxtJS, VueJS, Bootstrap, TailwindCSS, and Trello. My interest in the Software Development specially Website Development led me to have different connections and to develop my skills. I'm currently working on website development in local company as freelancer. 
+I'm a electrical and computer engineer passionate about making websites with cutting edge technologies. Some technologies and tools I enjoy working with are Laravel, NuxtJS, VueJS, Bootstrap, TailwindCSS, and Trello. My interest in the Software Development specially Website Development led me to have different connections and to develop my skills. I'm currently working on website development in local company as freelancer. 
 
 - 🔭 I’m currently working on: [Website Development]
 - 💬 Ask me about: Laravel, VueJs, NuxtJS, Bootstrap, Tailwindcss
