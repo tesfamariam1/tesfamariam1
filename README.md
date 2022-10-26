@@ -1,4 +1,3 @@
-
 <h3 align="center">👋 Hi there! I'm Tesfamariam</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/tesfamariam-teshome-4624581a0/"  target="_blank">LinkedIn</a> •
@@ -14,4 +13,5 @@ I'm electrical and computer engineer passionate about making websites with cutti
 - 📫 How to reach me: [@Tesfa](https://t.me/Usertm1216)
 - ⚡ Fun facts: 
   - You’ve got to renovate your website every two years
-  - First impression is the last impression (always try to impress your end user 👌🏽)
+  - First impression is the last impression (always try to impress your end user 👌🏽).        
+  <a href="https://app.daily.dev/Tesfamariam"><img src="https://api.daily.dev/devcards/6ad721271f0f4f0c951abc69c8725aec.png?r=d6n" width="300" alt="Tesfamariam Teshome's Dev Card"/></a>
