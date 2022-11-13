@@ -6,12 +6,11 @@
 </p>
 
 ---
-I'm electrical and computer engineer passionate about making websites with cutting edge technologies. Some technologies and tools I enjoy working with are Laravel, NuxtJS, VueJS, Bootstrap, TailwindCSS, and Trello. My interest in the Software Development specially Website Development led me to have different connections and to develop my skills. I'm currently working on website development in local company as full-stack developer. 
+I'm passionate Full Stack Website Developer with cutting edge technologies. Some technologies and tools I enjoy working with are Laravel, NuxtJS, VueJS, Bootstrap, TailwindCSS, and Trello. My interest in the Software Development specially Website Development led me to have different connections and to develop my skills. I'm currently working on website development in local company as full-stack developer. 
 
-- 🔭 I’m currently working on: [Website Development]
+- 🔭 I’m currently working at: Cosmic Technologies
 - 💬 Ask me about: Laravel, VueJs, NuxtJS, Bootstrap, Tailwindcss
 - 📫 How to reach me: [@Tesfa](https://t.me/Usertm1216)
 - ⚡ Fun facts: 
   - You’ve got to renovate your website every two years
-  - First impression is the last impression (always try to impress your end user 👌🏽).        
-  <a href="https://app.daily.dev/Tesfamariam"><img src="https://api.daily.dev/devcards/6ad721271f0f4f0c951abc69c8725aec.png?r=d6n" width="300" alt="Tesfamariam Teshome's Dev Card"/></a>
+  - First impression is the last impression (always try to impress your end user 👌🏽).
