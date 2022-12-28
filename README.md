@@ -6,11 +6,32 @@
 </p>
 
 ---
-I'm passionate Full Stack Website Developer with cutting edge technologies. Some technologies and tools I enjoy working with are Laravel, NuxtJS, VueJS, Bootstrap, TailwindCSS, and Trello. My interest in the Software Development specially Website Development led me to have different connections and to develop my skills. I'm currently working on website development in local company as full-stack developer. 
+I'm a Full Stack Website Developer. Born and raised in Ethiopia I moved to Jimma University, Jimma, Ethiopia to pursuit Electrical and Computer Engineering Degree. I Graduated in 2021 with Bsc in Computer Engineering Focus Area. I was website developer Intern at ETM Software PLC. Now I am working in Cosmic Technologies as Full Stack Website Developer!
 
-- 🔭 I’m currently working at: Cosmic Technologies
-- 💬 Ask me about: Laravel, VueJs, NuxtJS, Bootstrap, Tailwindcss
-- 📫 How to reach me: [@Tesfa](https://t.me/Usertm1216)
-- ⚡ Fun facts: 
+In my spare time I watch Movies, I Learn New Technologies, I Develop websites for local shops and work on open source projects.
+
+Skill I am Good At
+
+👨🏻‍💻 Backend:
+ - PHP, Laravel
+ - Spatie packages
+  
+👨🏻‍💻 Frontend:
+ - Bootstrap, Tailwind css
+ - Vue.js, Nuxt.js, Element ui
+ - Mapbox.js, jQuery, Mailtrap
+ 
+👨🏻‍💻 Databases:
+ - MySQL, Firebase
+🛠️ Tools:
+ - Git, Github. Trello
+
+ 🔭 I’m currently working at: Cosmic Technologies
+ 
+ 💬 Ask me about: Laravel, VueJs, NuxtJS, Bootstrap, Tailwindcss
+ 
+ 📫 How to reach me: [@Tesfa](https://t.me/Usertm1216)
+ 
+ ⚡ Fun facts: 
   - You’ve got to renovate your website every two years
   - First impression is the last impression (always try to impress your end user 👌🏽).
