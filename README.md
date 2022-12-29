@@ -23,6 +23,7 @@ Skill I am Good At
  
 👨🏻‍💻 Databases:
  - MySQL, Firebase
+ 
 🛠️ Tools:
  - Git, Github. Trello
 
