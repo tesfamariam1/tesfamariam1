@@ -29,6 +29,8 @@ Skill I am Good At
 
  🔭 I’m currently working at: Cosmic Technologies
  
+ 📚 I'm Learning: React and React Native
+ 
  💬 Ask me about: Laravel, VueJs, NuxtJS, Bootstrap, Tailwindcss
  
  📫 How to reach me: [@Tesfa](https://t.me/Usertm1216)
