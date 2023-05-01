@@ -14,7 +14,7 @@ Passionate about programming and technology
 
 📚 Continuous Learner
 
-💻 Open Source Addict
+💻 Code Addict
  
  ⚡ Fun facts: 
   - You’ve got to renovate your website every two years
