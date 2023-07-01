@@ -15,7 +15,9 @@ Passionate about programming and technology
 📚 Continuous Learner
 
 💻 Code Addict
- 
+
+☦️ God's Follower 
+
  ⚡ Fun facts: 
   - You’ve got to renovate your website every two years
   - First impression is the last impression (always try to impress your end user 👌🏽).
