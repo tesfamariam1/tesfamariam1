@@ -16,6 +16,8 @@ Passionate about programming and technology
 
 💻 Code Addict
 
+📝 Learning React.js
+
  ⚡ Fun facts: 
   - You’ve got to renovate your website every two years
   - First impression is the last impression (always try to impress your end user 👌🏽).
