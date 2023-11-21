@@ -6,7 +6,7 @@
 </p>
 
 ---
-Full Stack Website Developer PHP | Laravel & JavaScript | Vue.js | Nuxt.js | React | Next.js
+Full Stack Website Developer PHP | Laravel & JavaScript | Vue.js | Nuxt.js | TailwindCSS
 
 Passionate about programming and technology
 
