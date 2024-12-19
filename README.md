@@ -16,6 +16,8 @@ Passionate about programming and technology
 
 💻 Code Addict
 
+🏋🏽 Fitness Enthusiast
+
 📝 Learning React.js
 
  ⚡ Fun facts: 
